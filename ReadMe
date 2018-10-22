@@ -1,0 +1,13 @@
+
+In this game, Reinforcement Learning Algorithms are used to drive a virtual mouse 
+to move around in a 2D world environment and avoid all the pitfalls that will be presented to it,
+gathering small pieces of cheese in order to discover the exit. 
+To create the game, the Unity Game Engine was used and a Markov Decision Process (MDP) was implemented. 
+The programming language chosen is C#, in which the Qlearning and SARSA algorithms
+have been implemented.
+
+Game Engine: Unity3D
+
+Programming Language: C#
+
+Others Tools: Gimp
